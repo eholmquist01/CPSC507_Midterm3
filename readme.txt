@@ -1,3 +1,5 @@
+The data set used in this program was accessed from a zip file containing 5 text collections. The data set is too large to upload however can be accessed at the following:
+
 Title:  Bag of Words Data Set
 
 Abstract: This data set contains five text collections in the form of bags-of-words.
